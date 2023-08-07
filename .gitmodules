@@ -1,0 +1,4 @@
+[submodule "greyorigin360"]
+    path = path/to/submodule
+    url = https://github.com/owoblow2020/greyorigin360.git
+
